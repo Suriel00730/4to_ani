@@ -36,7 +36,7 @@ function App() {
       
       <div className="feeling">
         <p>
-          Hola mi niña bonita, primeo que nada quiero decirte 
+          Hola mi niña bonita, primero que nada quiero decirte 
           que te amo mucho y espero que nunca te canses de 
           escucharlo de mi boca porque pienso decírtelo por
           el resto de nuestras vidas.
